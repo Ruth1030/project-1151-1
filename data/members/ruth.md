@@ -14,4 +14,4 @@
 
 ## GitHub
 
-username: Ruth1030
+Ruth1030
